@@ -1,0 +1,5 @@
+li {
+    display: flex; /* Ensures items stay on the same line */
+    align-items: center; /* Aligns text and checkbox vertically */
+    gap: 0.5rem; /* Adds spacing between the checkbox and text */
+}
